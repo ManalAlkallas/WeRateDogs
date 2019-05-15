@@ -51,7 +51,7 @@ This dataset ia  a table full of image predictions alongside each tweet ID, imag
     - I only want original ratings (no retweets) that have images. Though there are 5000+ tweets in the dataset, not all are dog ratings and some are retweets.
     - Assessing and cleaning at least 8 quality issues and at least 2 tidiness issues in this dataset.
     - Cleaning includes merging individual pieces of data according to the rules of tidy data.
-    - The fact that the rating numerators are greater than the denominators does not need to be cleaned. This unique rating system is a big part of the popularity of WeRateDogs.
+    - The fact that the rating numerators are greater than the denominators does not need to be cleaned. This [unique rating system](https://knowyourmeme.com/memes/theyre-good-dogs-brent) is a big part of the popularity of WeRateDogs.
     - I do not need to gather the tweets beyond August 1st, 2017.
 
         
